@@ -26,7 +26,8 @@
   "dependencies": {
     "request"         : "2.53.0",
     "qs"              : "2.4.1",
-    "deep-copy"       : "*"
+    "deep-copy"       : "*",
+    "lodash"          : "^3.8.0"
   },
 
   "devDependencies": {
